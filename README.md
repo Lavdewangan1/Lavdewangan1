@@ -72,7 +72,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-45.gif"  />
+  <img height="200" src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-45.gif"  />
 </div>
 
 ###
