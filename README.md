@@ -12,7 +12,9 @@
   <a href="https://www.linkedin.com/in/lav-dewangan-a2b40b293/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
   </a>
+  <a href="https://x.com/Lavdewangan1?t=FS1lSXDB2Hma_PWAmU3o1w&s=09" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="30" alt="twitter logo"  />
+  </a>
   <a href="https://www.instagram.com/lav_dewangan05/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  />
   </a>
