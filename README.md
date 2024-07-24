@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I am a freelance web developer.</p>
+<p align="left">I am a freelance web developer from India.</p>
 
 ###
 
